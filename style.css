@@ -36,3 +36,7 @@ img {
     font-weight: bold;
     text-transform: uppercase;
 }
+
+.feature-content {
+    padding: 8rem 0;
+}
