@@ -67,3 +67,8 @@ img {
     color: cadetblue;
     text-decoration: none;
 }
+
+#main-footer a:hover {
+    color: darksalmon;
+    transition: .3s;
+}
